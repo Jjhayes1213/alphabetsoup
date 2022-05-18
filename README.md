@@ -14,7 +14,9 @@ Variables removed from data: EIN, NAME
 
 ## Compiling, Training, and Evaluating the Model
 How many neurons, layers, and activation functions did you select for your neural network model? Initially 2 layers, 90 nuerons, and 2 activation functions
+
 Were you able to achieve the target model performance? I was unable to create a performance rate over 75%
+
 What steps did you take to try and increase model performance? I increased to 3 then 4 hidden layers, I changed out the activation types, increased the neurons, and updated from 100 ephochs to 200 epochs.
 
 ## Summary
